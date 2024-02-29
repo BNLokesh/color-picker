@@ -22,11 +22,6 @@ Color Picker is a simple web application that allows users to select a color fro
 3. Choose a color from the palette by clicking on it.
 4. See the background color change dynamically based on your selection.
 
-## Preview
-
-![Color Picker Preview](![color-switcher-v1](https://github.com/BNLokesh/color-picker/assets/110474558/fee1e7f8-6bad-4632-981b-66a960bef9e5)
-)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
